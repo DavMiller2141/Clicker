@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Neumont\\app dev\\Code\\click\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56831F41-E554-4BF1-9FA0-CCD4CDFFBD32}|click\\click.csproj|c:\\neumont\\app dev\\code\\click\\click\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56831F41-E554-4BF1-9FA0-CCD4CDFFBD32}|click\\click.csproj|solutionrelative:click\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56831F41-E554-4BF1-9FA0-CCD4CDFFBD32}|click\\click.csproj|c:\\neumont\\app dev\\code\\click\\click\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56831F41-E554-4BF1-9FA0-CCD4CDFFBD32}|click\\click.csproj|solutionrelative:click\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Neumont\\app dev\\Code\\click\\click\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "click\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Neumont\\app dev\\Code\\click\\click\\MainPage.xaml.cs",
+              "RelativeToolTip": "click\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:49:14.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Neumont\\app dev\\Code\\click\\click\\MainPage.xaml",
+              "RelativeDocumentMoniker": "click\\MainPage.xaml",
+              "ToolTip": "C:\\Neumont\\app dev\\Code\\click\\click\\MainPage.xaml",
+              "RelativeToolTip": "click\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T23:49:11.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
