@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("click")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f00a9e07ac3d0c085ef4dd0711e82e4e229e541c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5ef386ab2cbd18b2ba254c5c0f2de413f4311978")]
 [assembly: System.Reflection.AssemblyProductAttribute("click")]
 [assembly: System.Reflection.AssemblyTitleAttribute("click")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

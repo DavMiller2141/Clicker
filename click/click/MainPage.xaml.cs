@@ -13,11 +13,22 @@
         {
             count++;
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
+            //if (count == 1)
+            //    CounterBtn.Text = $"{count}";
+            //else
+            //    CounterBtn.Text = $"{count}";
 
+            //SemanticScreenReader.Announce(CounterBtn.Text);
+        }
+
+        private void TapGestureRecognizer_Tapped(object sender, TappedEventArgs e)
+        {
+            count++;
+
+            if (count == 1)
+                CounterBtn.Text = $"{count}";
+            else
+                CounterBtn.Text = $"{count}";
             SemanticScreenReader.Announce(CounterBtn.Text);
         }
     }
