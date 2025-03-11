@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.click</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Neumont\app dev\Code\click\click\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\GIT\Clicker\click\click\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>DA534F47660FB6CE8A37A85CD8737B611C5455EC667D00CBD8E47BB2D9944336</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.click_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.click_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,268 +27,268 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Neumont\app dev\Code\click\click\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\GIT\Clicker\click\click\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-04T23:48:20.332</Modified>
+      <Modified>2025-03-06T22:23:16.078</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2025-03-04T23:48:19.997</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\click.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\click.runtimeconfig.json">
       <PackagePath>click.runtimeconfig.json</PackagePath>
-      <Modified>2025-03-04T23:48:19.396</Modified>
+      <Modified>2025-03-06T22:23:15.855</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\click.dll">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\click.dll">
       <PackagePath>click.dll</PackagePath>
-      <Modified>2025-03-04T23:48:17.491</Modified>
+      <Modified>2025-03-06T22:23:15.087</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>click.exe</PackagePath>
-      <Modified>2025-03-04T23:48:17.531</Modified>
+      <Modified>2025-03-06T22:23:15.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2025-03-04T23:47:19.597</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2025-03-04T23:47:54.671</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2025-03-04T23:47:54.692</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2025-03-04T23:47:54.724</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2025-03-04T23:47:54.789</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2025-03-04T23:47:55.011</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2025-03-04T23:47:19.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2025-03-04T23:47:19.587</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-03-04T23:47:56.800</Modified>
+      <Modified>2025-03-06T22:18:55.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.786</Modified>
+      <Modified>2025-03-06T22:18:55.561</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.785</Modified>
+      <Modified>2025-03-06T22:18:55.561</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.785</Modified>
+      <Modified>2025-03-06T22:18:55.560</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.784</Modified>
+      <Modified>2025-03-06T22:18:55.560</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.784</Modified>
+      <Modified>2025-03-06T22:18:55.560</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.795</Modified>
+      <Modified>2025-03-06T22:18:55.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.794</Modified>
+      <Modified>2025-03-06T22:18:55.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.793</Modified>
+      <Modified>2025-03-06T22:18:55.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.794</Modified>
+      <Modified>2025-03-06T22:18:55.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.794</Modified>
+      <Modified>2025-03-06T22:18:55.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.796</Modified>
+      <Modified>2025-03-06T22:18:55.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.796</Modified>
+      <Modified>2025-03-06T22:18:55.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.795</Modified>
+      <Modified>2025-03-06T22:18:55.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.796</Modified>
+      <Modified>2025-03-06T22:18:55.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.795</Modified>
+      <Modified>2025-03-06T22:18:55.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.799</Modified>
+      <Modified>2025-03-06T22:18:55.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.799</Modified>
+      <Modified>2025-03-06T22:18:55.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.799</Modified>
+      <Modified>2025-03-06T22:18:55.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.799</Modified>
+      <Modified>2025-03-06T22:18:55.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.798</Modified>
+      <Modified>2025-03-06T22:18:55.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.798</Modified>
+      <Modified>2025-03-06T22:18:55.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.798</Modified>
+      <Modified>2025-03-06T22:18:55.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.797</Modified>
+      <Modified>2025-03-06T22:18:55.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.797</Modified>
+      <Modified>2025-03-06T22:18:55.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.797</Modified>
+      <Modified>2025-03-06T22:18:55.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.789</Modified>
+      <Modified>2025-03-06T22:18:55.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.789</Modified>
+      <Modified>2025-03-06T22:18:55.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.789</Modified>
+      <Modified>2025-03-06T22:18:55.563</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.788</Modified>
+      <Modified>2025-03-06T22:18:55.563</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.788</Modified>
+      <Modified>2025-03-06T22:18:55.563</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.791</Modified>
+      <Modified>2025-03-06T22:18:55.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.791</Modified>
+      <Modified>2025-03-06T22:18:55.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.790</Modified>
+      <Modified>2025-03-06T22:18:55.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.790</Modified>
+      <Modified>2025-03-06T22:18:55.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.790</Modified>
+      <Modified>2025-03-06T22:18:55.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.793</Modified>
+      <Modified>2025-03-06T22:18:55.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.793</Modified>
+      <Modified>2025-03-06T22:18:55.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.792</Modified>
+      <Modified>2025-03-06T22:18:55.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.792</Modified>
+      <Modified>2025-03-06T22:18:55.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.791</Modified>
+      <Modified>2025-03-06T22:18:55.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.788</Modified>
+      <Modified>2025-03-06T22:18:55.563</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.788</Modified>
+      <Modified>2025-03-06T22:18:55.563</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.788</Modified>
+      <Modified>2025-03-06T22:18:55.562</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.786</Modified>
+      <Modified>2025-03-06T22:18:55.562</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.786</Modified>
+      <Modified>2025-03-06T22:18:55.561</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.805</Modified>
+      <Modified>2025-03-06T22:18:55.559</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.805</Modified>
+      <Modified>2025-03-06T22:18:55.559</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.803</Modified>
+      <Modified>2025-03-06T22:18:55.559</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.802</Modified>
+      <Modified>2025-03-06T22:18:55.558</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-03-04T23:47:56.802</Modified>
+      <Modified>2025-03-06T22:18:55.558</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Neumont\app dev\Code\click\click\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\click.deps.json">
+    <AppxPackagedFile Include="C:\GIT\Clicker\click\click\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\click.deps.json">
       <PackagePath>click.deps.json</PackagePath>
-      <Modified>2025-03-04T23:48:19.137</Modified>
+      <Modified>2025-03-06T22:23:15.750</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mille\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

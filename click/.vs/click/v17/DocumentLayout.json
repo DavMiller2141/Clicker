@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Neumont\\app dev\\Code\\click\\",
+  "WorkspaceRootPath": "C:\\GIT\\Clicker\\click\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56831F41-E554-4BF1-9FA0-CCD4CDFFBD32}|click\\click.csproj|c:\\neumont\\app dev\\code\\click\\click\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56831F41-E554-4BF1-9FA0-CCD4CDFFBD32}|click\\click.csproj|c:\\git\\clicker\\click\\click\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56831F41-E554-4BF1-9FA0-CCD4CDFFBD32}|click\\click.csproj|solutionrelative:click\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56831F41-E554-4BF1-9FA0-CCD4CDFFBD32}|click\\click.csproj|c:\\neumont\\app dev\\code\\click\\click\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{56831F41-E554-4BF1-9FA0-CCD4CDFFBD32}|click\\click.csproj|c:\\git\\clicker\\click\\click\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{56831F41-E554-4BF1-9FA0-CCD4CDFFBD32}|click\\click.csproj|solutionrelative:click\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Neumont\\app dev\\Code\\click\\click\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\GIT\\Clicker\\click\\click\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "click\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Neumont\\app dev\\Code\\click\\click\\MainPage.xaml.cs",
+              "ToolTip": "C:\\GIT\\Clicker\\click\\click\\MainPage.xaml.cs",
               "RelativeToolTip": "click\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,14 +49,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Neumont\\app dev\\Code\\click\\click\\MainPage.xaml",
+              "DocumentMoniker": "C:\\GIT\\Clicker\\click\\click\\MainPage.xaml",
               "RelativeDocumentMoniker": "click\\MainPage.xaml",
-              "ToolTip": "C:\\Neumont\\app dev\\Code\\click\\click\\MainPage.xaml",
+              "ToolTip": "C:\\GIT\\Clicker\\click\\click\\MainPage.xaml",
               "RelativeToolTip": "click\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-04T23:49:11.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T23:49:11.881Z"
             }
           ]
         }

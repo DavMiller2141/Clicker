@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Neumont\\app dev\\Code\\click\\click\\click.csproj": {}
+    "C:\\GIT\\Clicker\\click\\click\\click.csproj": {}
   },
   "projects": {
-    "C:\\Neumont\\app dev\\Code\\click\\click\\click.csproj": {
+    "C:\\GIT\\Clicker\\click\\click\\click.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Neumont\\app dev\\Code\\click\\click\\click.csproj",
+        "projectUniqueName": "C:\\GIT\\Clicker\\click\\click\\click.csproj",
         "projectName": "click",
-        "projectPath": "C:\\Neumont\\app dev\\Code\\click\\click\\click.csproj",
+        "projectPath": "C:\\GIT\\Clicker\\click\\click\\click.csproj",
         "packagesPath": "C:\\Users\\mille\\.nuget\\packages\\",
-        "outputPath": "C:\\Neumont\\app dev\\Code\\click\\click\\obj\\",
+        "outputPath": "C:\\GIT\\Clicker\\click\\click\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

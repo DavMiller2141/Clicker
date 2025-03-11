@@ -1,1 +1,1 @@
-C:\Neumont\app dev\Code\click\click\click.csproj;x64
+C:\GIT\Clicker\click\click\click.csproj;x64

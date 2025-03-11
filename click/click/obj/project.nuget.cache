@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3qc2gxR/SOU=",
+  "dgSpecHash": "9AftDtHNs1Y=",
   "success": true,
-  "projectFilePath": "C:\\Neumont\\app dev\\Code\\click\\click\\click.csproj",
+  "projectFilePath": "C:\\GIT\\Clicker\\click\\click\\click.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mille\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\mille\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
